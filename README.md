@@ -6,6 +6,14 @@ The goal of this project is to build a machine learning model to predict the pri
 
 ---
 
+## Project Structure
+
+1. [Modelling Experiments](./bluebook_for_bulldozers.ipynb)
+2. [Exploratory Data Analysis](./eda.ipynb)
+3. [Downloading the data](./download_dataset.ipynb)
+
+---
+
 ## Libraries used:
 
 - [Pandas](https://pandas.pydata.org/): For data manipulation and analysis.
