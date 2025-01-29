@@ -1,0 +1,14 @@
+name: /Volumes/NAS/Projects/Machine-Learning/regression/bluebook-for-bulldozers/env
+channels:
+  - defaults
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+dependencies:
+  - jupyterlab
+  - matplotlib
+  - numpy
+  - pandas
+  - scikit-learn
+  - mlxtend
+  - pyarrow
+prefix: /Volumes/NAS/Projects/Machine-Learning/regression/bluebook-for-bulldozers/env
