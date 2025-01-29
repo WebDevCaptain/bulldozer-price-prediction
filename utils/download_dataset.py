@@ -7,7 +7,9 @@ import requests
 
 
 def download_and_extract_zip(
-    source: str, destination: str, remove_source: bool = True
+    source: str = "https://github.com/mrdbourke/zero-to-mastery-ml/raw/refs/heads/master/data/bluebook-for-bulldozers.zip", 
+    destination: str ="bulldozer", 
+    remove_source: bool = True
 ) -> Path:
     """Downloads a zipped dataset from source and extracts it to destination.
 
